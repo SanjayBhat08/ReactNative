@@ -11,7 +11,7 @@
 //   );
 // };
 
-export default App;
+//export default App;
 import * as React from 'react';
 import { Text, View } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
